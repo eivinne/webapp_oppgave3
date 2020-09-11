@@ -1,25 +1,27 @@
-Git init  
+<h1>Oppgave 3</h1>
 
-git commit -m "first commit" 
+* git init  
 
-git branch -M master 
+* git commit -m "first commit" 
 
-Add hiof.js and the belonging javascript 
+* git branch -M master 
 
-git checkout -b developer 
+* Add hiof.js and the belonging javascript 
 
-git add . 
+* git checkout -b developer 
 
-git commit -m "first developer"  
+* git add . 
 
-git push --set-upstream origin developer 
+* git commit -m "first developer"  
 
-Add file on github website 
+* git push --set-upstream origin developer 
 
-git fetch 
+* Add file on github website 
 
-Git pull 
+* git fetch 
 
-Git checkout master 
+* git pull 
 
-Git merge developer 
+* git checkout master 
+
+* git merge developer 
